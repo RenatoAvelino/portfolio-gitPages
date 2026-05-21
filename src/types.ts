@@ -1,6 +1,7 @@
 export enum LinkImageSource {
   Github = "/images/logos/github.png",
   ItchIo = "/images/logos/itch.io.png",
+  LED = "/images/logos/led.png",
 }
 
 export enum Platform {
@@ -9,11 +10,13 @@ export enum Platform {
   Linux = "Linux",
   iOS = "iOS",
   Android = "Android",
+  Web =  "Web",
 }
 
 export enum GameEngine {
   Unity = "Unity",
   Unreal = "Unreal",
+  WebAR = "WebAR",
 }
 
 export enum MediaType {
