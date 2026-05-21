@@ -1,7 +1,7 @@
 export enum LinkImageSource {
   Github = "/images/logos/github.png",
   ItchIo = "/images/logos/itch.io.png",
-  LED = "/images/logos/led.png",
+  LED = "/images/logos/led.jpg",
 }
 
 export enum Platform {
